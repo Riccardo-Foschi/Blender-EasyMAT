@@ -1,10 +1,11 @@
 # Blender-EasyMAT
 Blender plugin for simplified creation and application of materials
 
+<h3 align="center">
 -----> [Download the Blender plugin from here!](https://github.com/Riccardo-Foschi/Blender-EasyMAT/releases/download/v1.17/EasyMAT.py) <-----
 
 [Watch a video tutorial here](https://youtu.be/MOTegrY_dxY )
-
+</h3>
 
 A plugin for Blender that simplifies the creation and application of materials without needing to use nodes.
 
